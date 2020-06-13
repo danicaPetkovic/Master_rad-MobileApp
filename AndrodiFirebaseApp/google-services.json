@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "685238158954",
+    "firebase_url": "https://securitysystem-ee910.firebaseio.com",
+    "project_id": "securitysystem-ee910",
+    "storage_bucket": "securitysystem-ee910.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:685238158954:android:82af6555fd888de798ac13",
+        "android_client_info": {
+          "package_name": "com.companyname.AndrodiFirebaseApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "685238158954-gif5k1h69d7db0ufjoo283qtf141i5on.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq3yIy1ysFfTLPKRFutsZzlYw26GtrP_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "685238158954-gif5k1h69d7db0ufjoo283qtf141i5on.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
